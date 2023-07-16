@@ -9,11 +9,11 @@ html {
 }
 
 :root {
-    --primary-text-color: #434455;
+    --primary-text-color: #090a0f;
     --title-text-color: #2E2F42;
     --primary-white-color: #ffffff;
     --hover-color: #404BBF;
-    --style-color:rgba(58, 15, 71, 0.7);
+    --style-color:rgb(27, 109, 239);
 }
 
 body {
@@ -53,8 +53,8 @@ body {
     
     border-radius: 30px;
 
-    background-color:var(--style-color);
-    box-shadow: 0 7px 29px rgb(56, 112, 152);
+    background-color:var(--primary-white-color);
+    box-shadow: 0 7px 29px rgb(255, 255, 255);
     font-size: 17px;
 }
 .cat-cont {
@@ -86,7 +86,7 @@ body {
     height: 35px;
 
     margin-left: 50px;
-    margin-top: 200px;
+    margin-top: 20px;
 }
 .text-cont {
     margin-left: 30px;
