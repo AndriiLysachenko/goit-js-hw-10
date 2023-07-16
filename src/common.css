@@ -9,11 +9,11 @@ html {
 }
 
 :root {
-    --primary-text-color: #434455;
+    --primary-text-color: #060708;
     --title-text-color: #2E2F42;
     --primary-white-color: #ffffff;
     --hover-color: #404BBF;
-    --style-color:rgba(58, 15, 71, 0.7);
+    --style-color:rgba(6, 89, 242, 0.934);
 }
 
 body {
